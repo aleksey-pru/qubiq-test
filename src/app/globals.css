@@ -10,7 +10,11 @@
 body {
   font-family: Konnect, sans-serif;
     font-size: 11px;
-    background: #efeff2;;
+    background: #efeff2;
+    background-image: url("/images/landing-background.png");
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    /*background-position: center;*/
 }
 
 
