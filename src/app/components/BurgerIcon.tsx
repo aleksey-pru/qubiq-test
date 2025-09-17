@@ -96,8 +96,9 @@ export default function BurgerIcon() {
                         Home
                     </ListItemButton>
                     <ListItemButton>About</ListItemButton>
-                    <ListItemButton>Studio</ListItemButton>
-                    <ListItemButton>Contact</ListItemButton>
+                    <ListItemButton>How it works</ListItemButton>
+                    <ListItemButton>Token design</ListItemButton>
+                    <ListItemButton>YARD flywheel</ListItemButton>
                 </List>
             </Drawer>
         </React.Fragment>
