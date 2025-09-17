@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 function HeroSection() {
     return (
-        <div className="px-4">
+        <div className="px-4 pb-[67px] md:pb-[119.5px] lg:pb-[131px]">
             <div className="md:max-w-[720px] md:mx-auto lg:max-w-[1370px]">
                 <div className="md:flex md:items-start md:gap-8 md:mb-8">
                     <div className="md:flex-1">
@@ -45,7 +45,7 @@ function HeroSection() {
                     </div>
                 </div>
 
-                <div className="w-[316px] mx-auto md:w-full md:mx-0 flex gap-4 pb-20">
+                <div className="w-[316px] mx-auto md:w-full md:mx-0 flex gap-4">
                     <button className="flex-1 md:w-[329px] md:flex-none rounded-[38px] py-4 h-[57px] bg-[#2d2d2d] text-white font-archivo text-sm flex items-center justify-center">
                         Join Whitelist
                     </button>
